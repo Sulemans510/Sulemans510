@@ -5,6 +5,7 @@
 - 📫 How to reach me shaik.suleman096@gmail.com or +916303509144
 - 😄 Pronouns: Suleman
 - ⚡ Fun fact: Friendly moving
+- 📃 Resume: 
 
 <!---
 Sulemans510/Sulemans510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
